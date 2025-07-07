@@ -6,8 +6,8 @@ favoritar e listar os contatos.
 import os
 
 contacts_list = [
-    {"name": "João Silva", "phone": "11 - 99999-9999", "email": "joao@example.com", "favorite": False},
-    {"name": "Amanda Paes", "phone": "15 - 99841 - 9831", "email": "amanda@example.com", "favorite": True}
+    {"name": "João Silva", "phone": "11999999999", "email": "joao@example.com", "favorite": False},
+    {"name": "Maria Silva", "phone": "1599998888", "email": "maria@example.com", "favorite": True}
 ]
 
 def list_contacts(contacts_list):
